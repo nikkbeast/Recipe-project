@@ -1,4 +1,7 @@
 env/
-vege/__pycache__/
-vege/migrations/
+/media/
+/project1/__pycache__/
+/vege/__pycache__/
+/vege/migrations/
+/public/
 db.sqlite3
