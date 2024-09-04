@@ -1,0 +1,4 @@
+env/
+vege/__pycache__/
+vege/migrations/
+db.sqlite3

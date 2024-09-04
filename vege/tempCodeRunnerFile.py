@@ -1,0 +1,1 @@
+ recipe_image = request.FILES.get('recipe_image')
